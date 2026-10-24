@@ -2,6 +2,12 @@
 
 Media-tags bewerken en bulk hernoemen.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveTag](https://dravenlock.nl/video/DraveTag.jpg)](https://dravenlock.nl/video/DraveTag.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveTag.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.5.1*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
